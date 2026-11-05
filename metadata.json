@@ -1,0 +1,6 @@
+{
+  "name": "服饰文摘核验路由方案·交互解析与决策沙盘",
+  "description": "专为服饰古籍文摘配图研究方案设计的全景交互解析与路由器沙盘，提供白话导读、四大路由器原理解析、指标与损失函数模拟实验室及执行路线图。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
